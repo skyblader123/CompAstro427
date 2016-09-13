@@ -1,10 +1,9 @@
 # CompAstro427
 
 This is a set of code used for 5 projects that were needed to be handed in.
-It was intended for the Computational Astrophyics class (ASTR 427) in the University of Washington.
+It was intended for the Computational Astrophyics class (ASTR 427).
 
-Note that this code is predominantly written in Python.
-Please look at around at your own convenience and it can be used for (generic) reference for:
+If you intend to use the code please inform me by sending me an email. 
 
 - System MIN, MAX
 - Neville's Algorithm
@@ -16,8 +15,6 @@ Please look at around at your own convenience and it can be used for (generic) r
 - Monta-Carlo methods
 - CUDA coding
 - Other more that may not have been listed
-
-Thanks for taking your time to read and I hope it helps!
 
 Winnie Wang
 wangw33@uw.edu
