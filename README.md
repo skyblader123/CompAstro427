@@ -9,4 +9,4 @@ This is a set of code used for 5 projects that were needed to be handed in for t
 - Monta-Carlo methods
 - CUDA coding
 
-Wanda
+
